@@ -9,7 +9,6 @@ public class main {
         Greet.greet(1);
 
         Cheer cheer = new Cheer();
-
         cheer.cheer("Helló, We are Team awesome!");
 
     }
