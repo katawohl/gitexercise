@@ -4,6 +4,7 @@ public class main {
         Count count = new Count();
         count.count(27);
 
+        Greet.greet(1);
     }
 
     public static void count(){
