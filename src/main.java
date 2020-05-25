@@ -12,8 +12,5 @@ public class main {
 
         cheer.cheer("Helló, We are Team awesome!");
 
-
-        
-
     }
 }
