@@ -4,7 +4,7 @@ public class main {
         future.future("Pisces");
 
         Count count = new Count();
-        count.count(27);
+        count.count();
 
         Greet.greet(1);
 
