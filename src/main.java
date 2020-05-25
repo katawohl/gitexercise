@@ -8,8 +8,10 @@ public class main {
         count.count(10);
 
 
-        Greet.greet(1);
-        Greet.greetTwoParam(1, "whatever");
+
+        Greet.greet("Hello");
+        
+
 
         Cheer cheer = new Cheer();
         cheer.cheer("Helló, ", "We are Team awesome!");
