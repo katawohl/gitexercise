@@ -4,7 +4,9 @@ public class main {
         future.future("Szebi","Dragon");
 
         Count count = new Count();
-        count.count(10,5);
+
+        count.count(10);
+
 
         Greet.greet(1);
         Greet.greetTwoParam(1, "whatever");
