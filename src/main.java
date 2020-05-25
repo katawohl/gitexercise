@@ -4,12 +4,14 @@ public class main {
         future.future("Szebi","Dragon");
 
         Count count = new Count();
-        count.count();
+
+        count.count(10);
+
 
         Greet.greet(1);
+        Greet.greetTwoParam(1, "whatever");
 
         Cheer cheer = new Cheer();
         cheer.cheer("Helló, ", "We are Team awesome!");
-
     }
 }
