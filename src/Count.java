@@ -1,6 +1,6 @@
 public class Count {
 
-  public void count() {
-    System.out.println(5);
+  public void count(int a,int b) {
+    System.out.println(a + b);
   }
 }
