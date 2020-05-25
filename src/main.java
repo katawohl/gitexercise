@@ -1,5 +1,9 @@
 public class main {
     public static void main(String[] args) {
+
+        Count count = new Count();
+        count.count(27);
+
     }
 
     public static void count(){
