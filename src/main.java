@@ -2,16 +2,14 @@ public class main {
     public static void main(String[] args) {
         Future future = new Future();
         future.future("Pisces");
-    }
 
-    public static void count(){
-        System.out.println("My age is 27.");
-    }
-    public static void cheer() {
-        System.out.println("We are Team: Awesome!");
-    }
-    public static void future() {
-        System.out.println("Pisces");
-    }
+        Count count = new Count();
+        count.count(27);
 
+        Greet.greet(1);
+
+        Cheer cheer = new Cheer();
+        cheer.cheer("Hallo, We are Team awesome!");
+
+    }
 }
