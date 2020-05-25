@@ -4,7 +4,7 @@ public class main {
         future.future("Dragon");
 
         Count count = new Count();
-        count.count();
+        count.count(10);
 
         Greet.greet(1);
 
