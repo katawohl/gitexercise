@@ -1,5 +1,7 @@
 public class main {
     public static void main(String[] args) {
+        Future future = new Future();
+        future.future("Pisces");
     }
 
     public static void count(){
