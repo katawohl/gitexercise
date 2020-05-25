@@ -1,15 +1,10 @@
 public class main {
     public static void main(String[] args) {
-    }
 
-    public static void count(){
-        System.out.println("My age is 27.");
-    }
-    public static void cheer() {
-        System.out.println("We are Team: Awesome!");
-    }
-    public static void future() {
-        System.out.println("Pisces");
-    }
+        Cheer cheer = new Cheer();
+        cheer.cheer("Hallo, We are Team awesome!");
 
+
+
+    }
 }
