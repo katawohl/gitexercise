@@ -4,4 +4,8 @@ public class Greet {
     System.out.println("Greetings");
   }
 
+  public static void greetTwoParam(int i, String string){
+    System.out.println("hello");
+  }
+
 }
