@@ -6,7 +6,7 @@ public class main {
         Count count = new Count();
         count.count(10,5);
 
-        Greet.greet(1);
+        Greet.greet("Hello");
 
         Cheer cheer = new Cheer();
         cheer.cheer("Helló, We are Team awesome!");
