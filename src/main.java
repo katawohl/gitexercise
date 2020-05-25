@@ -1,7 +1,7 @@
 public class main {
     public static void main(String[] args) {
         Future future = new Future();
-        future.future("Pisces");
+        future.future("Dragon");
 
         Count count = new Count();
         count.count();
