@@ -14,5 +14,8 @@ public class main {
 
         KickMe kickMe = new KickMe();
         kickMe.kick();
+
+        Knife knife = new Knife();
+        knife.knife();
     }
 }
