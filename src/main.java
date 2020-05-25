@@ -10,7 +10,5 @@ public class main {
 
         Cheer cheer = new Cheer();
         cheer.cheer("Helló, We are Team awesome!");
-
-        cheer.cheer("Hallo, We are Team awesome!");
     }
 }
