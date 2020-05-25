@@ -6,4 +6,13 @@ public class main {
     public static void count(){
         System.out.println("My age is 27.");
     }
+
+    public static void cheer() {
+        System.out.println("We are Team: Awesome!");
+    }
+
+
+
+
+
 }
