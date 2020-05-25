@@ -3,4 +3,8 @@ public class main {
 
 
     }
+
+    public static void greet(){
+        System.out.println("I'm Kata from Group Awesome!");
+    }
 }
