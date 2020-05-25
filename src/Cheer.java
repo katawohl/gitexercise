@@ -1,6 +1,5 @@
 public class Cheer {
-
-    public void cheer(String message, int amount) {
-        System.out.println(message + " | " + amount + " times");
+    public void cheer(String message, String cheer) {
+        System.out.println(message+""+cheer);
     }
 }

@@ -12,7 +12,6 @@ public class main {
         Greet.greetTwoParam(1, "whatever");
 
         Cheer cheer = new Cheer();
-        cheer.cheer("Helló, We are Team awesome!", 10);
-
+        cheer.cheer("Helló, ", "We are Team awesome!");
     }
 }
