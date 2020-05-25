@@ -8,7 +8,7 @@ public class main {
         System.out.println("We are Team: Awesome!");
     }
     public static void future() {
-        System.out.println("We are Team: Awesome!");
+        System.out.println("Pisces");
     }
 
 
